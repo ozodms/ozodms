@@ -1,11 +1,10 @@
 # Ozodbek Makhammatov
 
-### Tech Stack:
-- Python
-- JavaScript
-- C++
-- Websites Development (HTML, CSS)
-- Version Control: Git 
+- Python, JavaScript, SQL, C++
+- HTML, CSS
+- MySQL, SQLite
+- Git, GitHub, Gitlab
+- Django (Basics), Numpy, Matplotlib, Trimesh, PyGeodesic
 
 
 
